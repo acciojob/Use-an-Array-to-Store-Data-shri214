@@ -1,3 +1,3 @@
-let yourArray=[`one`, 1, true, 2, `tow`, flase];
+let yourArray=[`one`, 1, true, 2, `two`, false];
 
-console.log(yourArray.length);
+document.write(yourArray.length);
